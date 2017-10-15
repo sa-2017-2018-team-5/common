@@ -1,10 +1,10 @@
 # Common
 Project of Software Architecture @ Polytech Nice
 
-#Purpose
+## Purpose
 > General information about the project. 
 
-#Authors
+## Authors
 Antoine AUBÉ <aube.antoine@protonmail.com>
 Danial Aswad BIN AHMAD FAZLAN <azswad20@gmail.com>
 Anthonny GIROUD <giroud.anthonny@gmail.com>
